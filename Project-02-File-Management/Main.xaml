@@ -1,0 +1,3 @@
+<Activity x:Class="Main" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:ui="http://schemas.uipath.com/workflow/activities"><Sequence DisplayName="File Management"><ui:WriteTextFile FileName="Outputs/file-organization-report.csv" Text="File,Type,Destination,Status&#xA;sample.txt,TXT,Outputs/Organized,Ready"/><ui:LogMessage Level="Info" Message="File organizer completed without overwrite."/></Sequence></Activity>
+
+

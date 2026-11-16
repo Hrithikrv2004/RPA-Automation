@@ -1,0 +1,6 @@
+Name,USN,Email,Phone,Department,Semester,Gender,Course
+Aarav,USN001,aarav@example.test,9000000001,Computer Science,1,Male,UiPath
+Diya,USN002,diya@example.test,9000000002,Information Technology,2,Female,Excel
+Vihaan,USN003,vihaan@example.test,9000000003,Electronics,3,Male,PDF
+Anaya,USN004,anaya@example.test,9000000004,Computer Science,4,Female,UiPath
+Arjun,USN005,arjun@example.test,9000000005,Information Technology,5,Male,Excel

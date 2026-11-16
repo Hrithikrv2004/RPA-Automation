@@ -1,0 +1,6 @@
+{
+  "Name": "Project-03-Excel-Automation",
+  "ProjectType": "Process",
+  "Description": "Attendance and marks report",
+  "MainFile": "Main.xaml"
+}

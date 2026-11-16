@@ -1,0 +1,6 @@
+{
+  "Name": "Project-04-Office-and-PDF-Automation",
+  "ProjectType": "Process",
+  "Description": "Local Office and PDF document generation",
+  "MainFile": "Main.xaml"
+}

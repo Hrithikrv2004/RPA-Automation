@@ -1,0 +1,6 @@
+{
+  "Name": "Project-01-Email-Automation",
+  "ProjectType": "Process",
+  "Description": "Local email classification and draft report",
+  "MainFile": "Main.xaml"
+}

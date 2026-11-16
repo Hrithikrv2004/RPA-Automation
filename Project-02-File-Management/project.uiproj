@@ -1,0 +1,6 @@
+{
+  "Name": "Project-02-File-Management",
+  "ProjectType": "Process",
+  "Description": "Local file organizer",
+  "MainFile": "Main.xaml"
+}

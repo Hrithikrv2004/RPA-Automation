@@ -1,0 +1,9 @@
+.local/
+.objects/
+.project/
+.settings/
+.tmh/
+bin/
+obj/
+*.user
+*.suo
